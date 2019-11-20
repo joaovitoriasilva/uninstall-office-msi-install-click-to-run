@@ -1,5 +1,0 @@
-<Configuration>
-    <Display Level="None" CompletionNotice="no" SupressModal="yes" AcceptEula="yes"/>
-    <Logging Level="Standard" Path="%temp%" />
-	<Setting Id="SETUP_REBOOT" Value="Never" />
-</Configuration>

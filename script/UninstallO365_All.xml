@@ -1,0 +1,5 @@
+<Configuration>
+    <Remove All="TRUE"/>
+	<Display Level="None" AcceptEULA="TRUE"/>
+    <Logging Level="Standard" Path="%temp%\OfficeProPlusUninstall.log"/>
+</Configuration>
