@@ -26,6 +26,6 @@ Requirements:
  - Check Microsoft article to review how to build XMLs files: https://docs.microsoft.com/en-us/deployoffice/configuration-options-for-the-office-2016-deployment-tool;
  - Use Deployment settings page to build your XML files: https://config.office.com/deploymentsettings;
  - Open a CMD/PowerShell window and cd to the folder where the files are stored. Do "setup.exe /download download.xml" to dowload all the necessary Office files;
- - Change the provided XML files to your needs.
+ - Change the provided XML files to your needs. Be aware that if you don't have SCCM managing your updates you should not use the OfficeMgmtCOM="True" setting.
 
 The sample scripts are provided AS IS without warranty of any kind.
